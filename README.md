@@ -1,2 +1,2 @@
-# junhyeonkwon.com
+# junhyeonkwon.github.io
 my personal website
