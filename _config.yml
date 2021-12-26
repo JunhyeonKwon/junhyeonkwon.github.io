@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Junhyeon Kwon"
 title_separator          : "-"
-name                     : &name "Junhyeon Kwon"
+name                     : &name "Dr. Junhyeon Kwon"
 description              : &description "personal description"
 url                      : https://junhyeonkwon.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
