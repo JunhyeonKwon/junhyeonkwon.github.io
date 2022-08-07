@@ -6,19 +6,19 @@ author_profile: true
 
 ## As a course instructor
 
-#### University of Houston
+### University of Houston
 
 - Fall 2022: MATH 3339 (Statistics for the Sciences)
 - Spring 2022: MATH 3339 (Statistics for the Sciences)
 - Fall 2021: MATH 3339 (Statistics for the Sciences)
 
-#### Konkuk University
+### Konkuk University
 
 - December 18-22, 2017: Introductory Statistics with R
 
 ## As a teaching assistant
 
-#### Seoul National University
+### Seoul National University
 
 - Fall 2018: Survey Design and Survey Practice (Instructor: Hee-Seok Oh)
 - Spring 2018: Regression Analysis and Lab. (Instructor: Hee-Seok Oh)
