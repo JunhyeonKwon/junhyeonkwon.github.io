@@ -1,7 +1,5 @@
 ---
-title: "Statistics for the Sciences (MATH 3339-18548)"
-collection: teaching
-type: "Undergraduate course"
-venue: "Department of Mathematics, University of Houston"
-date: 2021-09-01
+title: ""
 ---
+University of Houston
+- MATH3339: Statistics for the Sciences (Fall 2021, Spring 2022, Fall 2022)
