@@ -7,7 +7,7 @@ author_profile: true
 ## Manuscripts in Preparation
 
 - **Kwon, J.**, Jang, D, & Oh, H. S. `Multiscale Representation of Directional Scattered Data: Use of Anisotropic Radial Basis Functions'
-- **Kwon, J.**, & Jun, M. `Flexible Hawkes Process for Earthquake Occurences'
+- **Kwon, J.**, & Jun, M. `Flexible Spatio-Temporal Hawkes Process Models for Earthquake Occurences'
 
 ## Published papers
 
