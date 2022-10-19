@@ -6,7 +6,7 @@ author_profile: true
 
 ## Under review
 
-- **Kwon, J.**, & Jun, M. (2022) Flexible Spatio-Temporal Hawkes Process Models for Earthquake Occurences [arXiv:2210.08053](https://arxiv.org/abs/2210.08053) *submitted to Spatial Statistics*
+- **Kwon, J.**, & Jun, M. (2022) Flexible Spatio-Temporal Hawkes Process Models for Earthquake Occurences. *submitted to Spatial Statistics* [arXiv:2210.08053](https://arxiv.org/abs/2210.08053) 
 
 ## Manuscripts in Preparation
 
