@@ -4,10 +4,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Under review
+
+- **Kwon, J.**, & Jun, M. (2022) Flexible Spatio-Temporal Hawkes Process Models for Earthquake Occurences [arXiv:2210.08053](https://arxiv.org/abs/2210.08053) *submitted to Spatial Statistics*
+
 ## Manuscripts in Preparation
 
-- **Kwon, J.**, Jang, D, & Oh, H. S. `Multiscale Representation of Directional Scattered Data: Use of Anisotropic Radial Basis Functions'
-- **Kwon, J.**, & Jun, M. `Flexible Spatio-Temporal Hawkes Process Models for Earthquake Occurences'
+- **Kwon, J.**, Jang, D, & Oh, H. S. Multiscale Representation of Directional Scattered Data: Use of Anisotropic Radial Basis Functions
 
 ## Published papers
 
