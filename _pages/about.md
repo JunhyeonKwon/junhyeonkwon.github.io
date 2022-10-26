@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Associate in the Department of Mathematics at University of Houston (supervisor: [Mikyoung Jun](https://sites.google.com/view/mikyoung-jun/home)). Prior to joining the University of Houston, I earned a Ph.D. in Statistics from Seoul National University in August 2021 (supervisor: [Hee-Seok Oh](https://sites.google.com/site/heeseokoh)). My current research interests include, but are not limited to, multiscale methods in statistics, spatial statistics, and time series analysis. I am particularly interested in developing and applying the statistical methodology to analyze the data which are sampled at irregular observation sites such as earthquakes.
+I am a post-doctoral fellow in the Department of Mathematics at University of Houston (supervisor: [Mikyoung Jun](https://sites.google.com/view/mikyoung-jun/home)). Prior to joining the University of Houston, I earned a Ph.D. in Statistics from Seoul National University in August 2021 (supervisor: [Hee-Seok Oh](https://sites.google.com/site/heeseokoh)). My research interests include, but are not limited to, multiscale methods in statistics, spatial statistics, and time series analysis.
+
+I am a statistician who is dedicated to understanding inhomogeneous characteristics in natural phenomena. I focus on the adaptive modeling of local data structure. This is enabled by my understanding of domain knowledge and the statistical insights that arise from it. Currently, I am interested in developing statistical methods motivated by inhomogeneous data generated from earthquake occurrences such as their locations, occurrence times, fault orientations, and seismic waves. Simultaneously, I intend my statistical approaches to be general so that they can be readily applied to other data such as crimes, infectious diseases, wind directions, and economic indicators.
 
 <!--
 run this code on terminal
