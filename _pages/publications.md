@@ -4,15 +4,14 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Under review
-
-- **Kwon, J.**, Zheng, Y. & Jun, M. (2022) Flexible Spatio-Temporal Hawkes Process Models for Earthquake Occurences. *submitted to Spatial Statistics* [arXiv:2210.08053](https://arxiv.org/abs/2210.08053) 
 
 ## Manuscripts in Preparation
 
 - **Kwon, J.**, Jang, D, & Oh, H. S. Multiscale Representation of Directional Scattered Data: Use of Anisotropic Radial Basis Functions
 
 ## Published papers
+
+- **Kwon, J.**, Zheng, Y. & Jun, M. (2022) Flexible Spatio-Temporal Hawkes Process Models for Earthquake Occurences. Spatial Statistics, 54, 100728. [arXiv:2210.08053](https://arxiv.org/abs/2210.08053) 
 
 - Lim, Y., **Kwon, J.**, & Oh, H. S. (2021). Principal Component Analysis in the Wavelet Domain. Pattern Recognition, 108096.
 - Kim, J., Park, S., **Kwon, J.**, Lim, Y., & Oh, H. S. (2021). Estimation of spatio-temporal extreme distribution using a quantile factor model. Extremes, 24(1), 177-195.

@@ -8,6 +8,7 @@ author_profile: true
 
 ### University of Houston
 
+- Spring 2023: MATH 5385 (Statistics)
 - Fall 2022: MATH 3339 (Statistics for the Sciences)
 - Spring 2022: MATH 3339 (Statistics for the Sciences)
 - Fall 2021: MATH 3339 (Statistics for the Sciences)
