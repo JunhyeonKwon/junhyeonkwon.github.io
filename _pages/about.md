@@ -7,10 +7,18 @@ redirect_from:
   - /about/
   - /about.html
 ---
+I currently hold the position of Assistant Professor within the Mathematics Department at the University of North Texas. My path in academia has led me to this role, after a successful experience as a Post-doctoral Fellow at the University of Houston's Mathematics Department under the guidance of Professor [Mikyoung Jun](https://sites.google.com/view/mikyoung-jun/home). I am proud to have obtained my Ph.D. in Statistics from Seoul National University in August 2021, where I was mentored by Professor [Hee-Seok Oh](https://sites.google.com/site/heeseokoh).
 
-I am a post-doctoral fellow in the Department of Mathematics at University of Houston (supervisor: [Mikyoung Jun](https://sites.google.com/view/mikyoung-jun/home)). Prior to joining the University of Houston, I earned a Ph.D. in Statistics from Seoul National University in August 2021 (supervisor: [Hee-Seok Oh](https://sites.google.com/site/heeseokoh)). My research interests include, but are not limited to, multiscale methods in statistics, spatial statistics, and time series analysis.
+My research interests are diverse yet interconnected, encompassing multiscale methods in statistics, spatial statistics, time series analysis, and environmental statistics. I specialize as a statistician with a focus on interpreting inhomogeneous characteristics present within natural phenomena. My approach towards adaptive modeling of local data structures is deeply influenced by my comprehensive understanding of specific domain knowledge and the subsequent statistical insights it provides.
+
+At present, my research is primarily directed towards devising statistical methods inspired by inhomogeneous data derived from earthquake phenomena. This includes an analysis of aspects such as location, occurrence times, fault orientations, and seismic waves. My intent, however, extends beyond these specific instances. I aim to develop statistical methodologies that possess a broad applicability, allowing them to be used effectively for interpreting diverse datasets, including those pertaining to criminal activity, infectious diseases, wind patterns, and economic indicators.
+
+
+<!-- old version
+I am an Assistant Professor in the Deparment of Mathematics at the University of North Texas. Prior to joining UNT, I worked as a post-doctoral fellow in the Department of Mathematics at University of Houston (supervisor: [Mikyoung Jun](https://sites.google.com/view/mikyoung-jun/home)) and earned a Ph.D. in Statistics from Seoul National University in August 2021 (supervisor: [Hee-Seok Oh](https://sites.google.com/site/heeseokoh)). My research interests include, but are not limited to, multiscale methods in statistics, spatial statistics, time series analysis, and environmental statistics.
 
 I am a statistician who is dedicated to understanding inhomogeneous characteristics in natural phenomena. I focus on the adaptive modeling of local data structure. This is enabled by my understanding of domain knowledge and the statistical insights that arise from it. Currently, I am interested in developing statistical methods motivated by inhomogeneous data generated from earthquake occurrences such as their locations, occurrence times, fault orientations, and seismic waves. Simultaneously, I intend my statistical approaches to be general so that they can be readily applied to other data such as crimes, infectious diseases, wind directions, and economic indicators.
+-->
 
 <!--
 run this code on terminal
